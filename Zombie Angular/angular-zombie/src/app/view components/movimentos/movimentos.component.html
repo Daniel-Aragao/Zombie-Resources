@@ -1,0 +1,72 @@
+<div class="row" *ngIf="Recurso">
+  <div class="col-lg-12">
+    <div class="panel">
+      <div class="panel-body">
+        <h4>{{Recurso.Descricao}}</h4>
+        <h5>Quantidade: {{Recurso.Quantidade}}</h5>
+        <h6>{{Recurso.Observacao}}</h6>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-12">
+    <div class="panel">
+      <div class="panel-body">
+        <div class="row" *ngIf="Movimentar && isEdicao">
+          <div class="col-lg-12 ">
+            <div class="form-group">
+                <div class="form-group">
+                  <label class="col-lg-12">Acrescentar/Decrementar:</label>
+                  <input [(ngModel)]="Movimentar.Quantidade" type="number" class="form-control" >
+                </div>
+                <div class="form-group">
+                  <label class="col-lg-12">Descrição</label>
+                  <input [(ngModel)]="Movimentar.Descricao" type="text" class="form-control" >
+                </div>
+            </div>
+            <div class="form-group">
+              <div class="form-group">
+                <label class="col-lg-12" >Login</label>
+                <input [(ngModel)]="Movimentar.Usuario.Login" type="text" class="form-control" >
+              </div>
+              <div class="form-group">
+                <label class="col-lg-12">Senha</label>
+                <input [(ngModel)]="Movimentar.Usuario.Senha" type="password" class="form-control" >
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <button (click)="cancelEdit()" *ngIf="isEdicao" class="btn btn-danger pull-right">Cancelar</button>
+          <button (click)="movimentar()" class="btn pull-right" [class.btn-danger]="!isEdicao" [class.btn-success]="isEdicao">Movimentar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<table class="table table-hover">
+    <thead>
+      <tr>
+        <th class="col-lg-2">Descrição</th>
+        <th class="col-lg-1">Antes</th>
+        <th class="col-lg-1">Depois</th>
+        <th class="col-lg-2">Recurso</th>
+        <th class="col-lg-2">Data</th>
+        <th class="col-lg-2">Responsável</th>
+        <th class="col-lg-2">Tipo de movimento</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let Movimento of Movimentos"
+          [class.saida]="Movimento.TipoMovimento == 2">
+        <td>{{Movimento.Descricao}}</td>
+        <td>{{Movimento.Antes}}</td>
+        <td>{{Movimento.Depois}}</td>
+        <td>{{Movimento.Recurso.Descricao}}</td>
+        <td>{{Movimento.Data | date:'dd/MM/yyyy' }}</td>
+        <td>{{Movimento.Responsavel}}</td>
+        <td>{{Movimento.TipoMovimento == 2? "(-) Saída": "(+) Entrada"}}</td>
+      </tr>                           
+    </tbody>
+  </table>

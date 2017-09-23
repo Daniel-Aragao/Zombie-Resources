@@ -1,0 +1,8 @@
+td>span.act:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+td.center{
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+C:\Users\danie\Documents\Git\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\Infraestrutura.dll.config
+C:\Users\danie\Documents\Git\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\Infraestrutura.dll
+C:\Users\danie\Documents\Git\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\Infraestrutura.pdb
+C:\Users\danie\Documents\Git\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\Core.dll
+C:\Users\danie\Documents\Git\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\EntityFramework.dll
+C:\Users\danie\Documents\Git\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danie\Documents\Git\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\Core.pdb
+C:\Users\danie\Documents\Git\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\EntityFramework.xml
+C:\Users\danie\Documents\Git\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danie\Documents\Git\zombie-resources\Zombie Application\Infraestrutura\obj\Debug\Infraestrutura.csprojResolveAssemblyReference.cache
+C:\Users\danie\Documents\Git\zombie-resources\Zombie Application\Infraestrutura\obj\Debug\Infraestrutura.dll
+C:\Users\danie\Documents\Git\zombie-resources\Zombie Application\Infraestrutura\obj\Debug\Infraestrutura.pdb
+C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\Infraestrutura.dll.config
+C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\Infraestrutura.dll
+C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\Infraestrutura.pdb
+C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\Core.dll
+C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\EntityFramework.dll
+C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\Core.pdb
+C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\EntityFramework.xml
+C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Infraestrutura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Infraestrutura\obj\Debug\Infraestrutura.csprojResolveAssemblyReference.cache
+C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Infraestrutura\obj\Debug\Infraestrutura.dll
+C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Infraestrutura\obj\Debug\Infraestrutura.pdb
+C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Infraestrutura\obj\Debug\Infraestrutura.Migrations.Primeiras_entidades.resources
+C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Infraestrutura\obj\Debug\Infraestrutura.csproj.GenerateResource.Cache
+C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Infraestrutura\obj\Debug\Infraestrutura.Migrations.desativar_recurso.resources
