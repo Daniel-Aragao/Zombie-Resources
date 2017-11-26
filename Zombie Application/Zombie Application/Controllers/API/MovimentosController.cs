@@ -6,6 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using Zombie_Application.Aspect;
 using Zombie_Application.ViewModels;
 
 namespace Zombie_Application.Controllers.API
@@ -64,6 +65,7 @@ namespace Zombie_Application.Controllers.API
             return Ok(movimentacoes);
         }
 
+        [LogAspect]
         [HttpPost]
         [Route("api/Movimentar")]
         public IHttpActionResult Post(MovimentarViewModel vm)

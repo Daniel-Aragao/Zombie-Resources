@@ -189,3 +189,29 @@ C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Applicatio
 C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Zombie Application\bin\System.Web.Cors.dll
 C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Zombie Application\bin\System.Web.Http.Cors.dll
 C:\Users\danie\Documents\Git\Zombie Resources\zombie-resources\Zombie Application\Zombie Application\bin\System.Web.Http.Cors.xml
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\Core.dll
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\EntityFramework.dll
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\EntityFramework.SqlServer.dll
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\Infraestrutura.dll
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\Ninject.Web.Common.dll
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\Ninject.Web.Mvc.dll
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\Ninject.Web.WebApi.dll
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\PostSharp.dll
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\System.Web.Cors.dll
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\System.Web.Http.Cors.dll
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\WebActivatorEx.dll
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\Core.pdb
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\Infraestrutura.pdb
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\Infraestrutura.dll.config
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\EntityFramework.xml
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\EntityFramework.SqlServer.xml
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\Ninject.Web.Common.xml
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\Ninject.Web.Mvc.xml
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\Ninject.Web.WebApi.xml
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\PostSharp.xml
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\System.Web.Http.Cors.xml
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\bin\Zombie Application.pssym
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\obj\Debug\Zombie Application.dll.postsharp
+C:\Users\danie\Documents\Git\Zombie-Resources\Zombie Application\Zombie Application\obj\Debug\PostSharpHost.config
